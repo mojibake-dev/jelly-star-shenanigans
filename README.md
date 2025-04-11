@@ -121,7 +121,7 @@ do i need to do vbmeta?
 both of those docs say i do...
 https://xdaforums.com/t/closed-what-is-vbmeta-img.3931588/
 
-![ugh]()
+![ugh](https://github.com/mojibake-dev/jelly-star-shenanigans/blob/main/images/ugh.png)
 UUUUUUUUUUUUUUUUUUUUUUUUUGH NEVER say this.
 THIS THREAD could very well be what is put on google, and now you've been immortalized as an asshole....
 
@@ -247,7 +247,7 @@ get stock image from here https://drive.google.com/drive/folders/1iJZV76NIYV_P_T
 https://www.getdroidtips.com/stock-rom-unihertz-jelly-2-firmware/
 
 
-![warning]()
+![warning](https://github.com/mojibake-dev/jelly-star-shenanigans/blob/main/images/warning.png)
 
 oh thanks there, ill look out for that.
 
@@ -327,7 +327,7 @@ what was tried:
 - setenforce 0 then to put SELinux in permissive mode to get past the tombstones it was throwing on launch
 - review logcat for debug. 
 
-![lunatic]()
+![lunatic](https://github.com/mojibake-dev/jelly-star-shenanigans/blob/main/images/lunatic%20post.png)
 
 I emailed peter about it and received no response. 
 
