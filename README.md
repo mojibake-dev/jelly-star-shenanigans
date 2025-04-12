@@ -8,7 +8,7 @@ If you're working on something similar it may be helpful however as I'd run into
 
 ## Goal.
 
-I'm looking to use a dumbphone 
+I'm looking to use a dumbphone. However the options are limited. Most are made for the elderly. big numbers for the visually imparied. you CANNOT buy a 4g and up phone with a qwerty keyboard. they will not let you. This is my current approach to get something approximating it. The big catch is that if I want GPS in my car I need to use android auto. I called the dealer- in spite of having a big screen shoved into the dashboard, for some reason they cannot put GPS on it. any way here we go!!
 
 We start here.
 
